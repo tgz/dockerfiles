@@ -2,8 +2,8 @@
 
 ## Before build
 
-1. Download Android NDK
-2. Download tools_r25.2.3-linux.zip 
+1. [Download Android NDK r14b-linux](https://dl.google.com/android/repository/android-ndk-r14b-linux-x86_64.zip)
+2. [Download tools_r25.2.3-linux](https://dl.google.com/android/repository/tools_r25.2.3-linux.zip) 
 
 put file in resources folder
 
